@@ -1,8 +1,4 @@
-
-## About Me
-- 👋 Hi, I’m @Valenplayer3000
-- 👀 I’m interested in HTML, CSS
-- 🌱 I’m currently learning HTML, CSS and Javascript
+I'm not going to use this file next time
 
 ## Stats
 
